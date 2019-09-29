@@ -1,6 +1,6 @@
 # Git & GitHub Assignment
 
-This lab is divided into 2 parts, the first part focuses on Git and the second is real a life example using GitHub. 
+This - lab is divided into 2 parts, the first part focuses on Git and the second is real a life example using GitHub. 
 
 ## Practice Git branching
 
